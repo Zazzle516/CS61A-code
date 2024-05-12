@@ -1,0 +1,5 @@
+'small-correct', (0, 70)
+'parent-correct', (512, 70)
+'rle-correct', (1024, 70)
+'group-by-nondecreasing-correct', (1536, 70)
+'size-correct', (2048, 70)
